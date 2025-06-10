@@ -1,6 +1,3 @@
-public class DR {
+public class SD {
     System.out.println("Welcome");
 }
-ff
-
-run test case
